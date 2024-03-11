@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682642995765",
+    "project_id": "collegeapp-487ce",
+    "storage_bucket": "collegeapp-487ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682642995765:android:a821e729e329648f9fcf7c",
+        "android_client_info": {
+          "package_name": "com.coderbinotechworld.collegeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCT2EkrIzcrEGT3YziwJaSghfYVAU5vhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
